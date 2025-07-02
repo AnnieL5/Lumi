@@ -38,7 +38,7 @@ const App = () => {
     const res = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
-        "Authorization": `Bearer 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`,
+        "Authorization": `Bearer API_KEY_HERE`, // Replace with your OpenAI API key
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
