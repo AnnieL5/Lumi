@@ -10,6 +10,17 @@ With Limi,
 - It's like taking to a vtuber or live2d character of your choice, it can be a anime character that your really like!
 - Your character has memory, which means he/she will remember your past conversations.
 
+## Technical Aspect
+
+| Function |	Tools / Tech Options |
+| --- | --- |
+Frontend (UI) |	HTML/CSS/JavaScript + React
+Chat Backend (Text AI) |	OpenAI GPT-4 or o3 API
+Voice Output (TTS) |	ElevenLabs, Google Cloud TTS, Microsoft Azure TTS
+Live2D Animation |	Live2D Cubism + Live2D SDK (Web/Unity)
+Lip Sync & Expression Control |	Voice amplitude → expression map, or use phoneme analysis
+Runtime App Framework |	Web app (React/Vite)
+
 
 # Getting Started with Create React App
 
