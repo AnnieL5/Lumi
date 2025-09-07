@@ -38,7 +38,7 @@ const App = () => {
     const res = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
-        "Authorization": `Bearer API_KEY_HERE`, // Replace with your OpenAI API key
+        "Authorization": `API_KEY_HERE`, // Replace with your OpenAI API key
         "Content-Type": "application/json",
       },
       body: JSON.stringify({

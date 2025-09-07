@@ -1,3 +1,16 @@
+# Lumi
+
+Your companion AI anime character
+
+### Talk. Laugh. Connect. Like they’re really there
+
+With Limi, 
+- You can talk to this AI anime character through texting or voice input.
+- The character of your choice will respond to you, not with simple plain text or voices, but also a visual anime character reacting with emotions.
+- It's like taking to a vtuber or live2d character of your choice, it can be a anime character that your really like!
+- Your character has memory, which means he/she will remember your past conversations.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
